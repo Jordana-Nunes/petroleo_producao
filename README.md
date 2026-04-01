@@ -2,19 +2,6 @@
 
 ## 📂 Arquivos Gerados
 
-### Arquivos de Análise
-- **`analise_impacto_ira_ormuz.ipynb`** - Notebook Jupyter completo com:
-  - Análise exploratória de dados
-  - Cálculos de produção e impacto
-  - Geração de 2 gráficos principais
-  - Análise de vulnerabilidade
-
-- **`RESUMO_ANALISE.md`** - Documento executivo em Markdown com:
-  - Resposta: "Por que o preço foi afetado?"
-  - Dados quantitativos
-  - Análise de vulnerabilidade
-  - Recomendações
-
 ### Gráficos Gerados (PNG, 300 DPI)
 
 #### 📊 Gráfico 1: Produção de Petróleo - Impacto Mês a Mês
@@ -31,45 +18,6 @@
   - 59,4% tem rotas alternativas
 - Comparativo de impacto entre grupos
 - Demonstra claramente a vulnerabilidade
-
----
-
-## 🔴 Resposta Principal
-
-### **Por que o preço do petróleo foi afetado pela guerra do Irã e bloqueio de Ormuz?**
-
-**5 razões principais:**
-
-1. **Escassez de 6,9 milhões de barris/dia** (~8,8% da oferta global)
-2. **5 dos 10 maiores produtores dependem de Ormuz** (40% da produção)
-3. **Demanda completamente inelástica** no curto prazo (população não reduz consumo)
-4. **Irã reduz 76% da produção** (3,8 → 0,9 M bpd)
-5. **Especulação amplifica o movimento** de preço (+5-10% adicional)
-
-**Resultado:** Acompanhamento perfeito - oferta cai 8,8% e preço sobe 18,9% em 10 dias
-
-### **Dados-chave:**
-- Preço pré-crise: $78,70/bbl
-- Preço pós-crise: $93,57/bbl
-- Aumento: **+$14,87/bbl (+18,9%)**
-- Países mais impactados: Irã (-76%), Kuwait (-32%), Iraque (-30%)
-
----
-
-## 💾 Como Usar
-
-### Visualizar a Análise Completa
-1. Abra o notebook: `analise_impacto_ira_ormuz.ipynb`
-2. Execute as células pela ordem
-3. Observe os outputs e gráficos
-
-### Ver Apenas os Gráficos
-Abra os arquivo PNG diretamente:
-- `grafico_02_producao_impacto.png`
-- `grafico_03_vulnerabilidade_ormuz.png`
-
-### Ler o Resumo Técnico
-Abra: `RESUMO_ANALISE.md`
 
 ---
 
@@ -138,22 +86,3 @@ ANÁLISE EXPLORATÓRIA
 - Dados de março 2026 são prospectivos
 - Análise focada apenas em 2 gráficos principais
 - Não considera medidas governamentais futuras
-
----
-
-## 📊 Estatísticas do Projeto
-
-| Métrica | Valor |
-|---------|-------|
-| Arquivos Criados | 8 |
-| Gráficos | 2 |
-| Países Analisados | 10 |
-| Períodos Comparados | 2 |
-| Linhas de Código (Notebook) | ~250 |
-| Análise enfocada em | Produção e Vulnerabilidade |
-
----
-
-**Análise criada em:** 31 de março de 2026  
-**Tipo:** Análise Exploratória de Dados  
-**Contexto:** Impacto geopolítico em commodities energéticas

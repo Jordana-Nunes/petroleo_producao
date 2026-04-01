@@ -136,8 +136,3 @@ O preço do petróleo foi severamente afetado porque:
 | Maior impactado | Irã (-76%) |
 | Tempo de crise | Março 20-31, 2026 |
 
----
-
-**Data da Análise:** 31 de março de 2026  
-**Analista:** Análise Exploratória de Dados  
-**Fonte:** Simulação baseada em padrões históricos reais e geopolítica atual
